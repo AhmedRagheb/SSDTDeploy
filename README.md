@@ -1,4 +1,4 @@
-# SSDTDeply
+# SSDT Deploy
 
 - This is the power shell Deploy script for Octopus Deploy and SSDT.
 
